@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.Folder {
+  padding: 40px;
+  position: relative;
+}
+
+.Folder-Refresh {
+  margin-bottom: 10px;
+}

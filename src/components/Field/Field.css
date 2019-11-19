@@ -1,0 +1,11 @@
+.Field {
+    padding-bottom: 5px;
+}
+
+.Field:last-child {
+    padding-bottom: 0;
+}
+
+.Field-Title {
+    font-weight: bold;
+}
